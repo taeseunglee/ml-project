@@ -57,7 +57,10 @@ Use Keras if you need a deep learning library that:
 * Runs seamlessly on CPU and GPU.
 
 ## Flow Chart of this program
-Image
+[Flow chart of this program](images/flow_chart.png)
+
+## Flow Chart of VGG model
+[flow chart of VGG model](image/Plot-of-Layers-in-the-VGG-Model.png)
 
 ## Terminologies
 ### Epoch
@@ -69,5 +72,4 @@ Total number of training examples present in a single batch.
 ### Iterations
 Iterations is the number of batches needed to complete one epoch.
 
-##
 
