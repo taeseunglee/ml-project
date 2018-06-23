@@ -1,6 +1,6 @@
 # Image-Processing
 ## Objective
-
+Make an application that notices what input image is by using image processing.
 
 ## References
 * [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
@@ -71,5 +71,4 @@ Total number of training examples present in a single batch.
 
 ### Iterations
 Iterations is the number of batches needed to complete one epoch.
-
 
