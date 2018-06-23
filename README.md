@@ -57,10 +57,10 @@ Use Keras if you need a deep learning library that:
 * Runs seamlessly on CPU and GPU.
 
 ## Flow Chart of this program
-[Flow chart of this program](images/flow_chart.png)
+![Flow chart of this program](/images/flow_chart.png?raw=true)
 
 ## Flow Chart of VGG model
-[flow chart of VGG model](image/Plot-of-Layers-in-the-VGG-Model.png)
+![Flow chart of VGG model](/images/Plot-of-Layers-in-the-VGG-Model.png?raw=true)
 
 ## Terminologies
 ### Epoch
